@@ -9,8 +9,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: tuhin.thinktoshare@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 📧 Email: aimlesstuhin@gmail.com
 - 🖥️ GitHub: [github.com/tuhin3190](https://github.com/tuhin3190)
 
 ## 🛠️ Skills & Tools
@@ -21,6 +20,4 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 
-## 📊 GitHub Stats
 
-![Tuhin Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhin3190&show_icons=true&theme=tokyonight&v=1)
