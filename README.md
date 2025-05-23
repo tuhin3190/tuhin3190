@@ -11,7 +11,7 @@
 
 - 📧 Email: tuhin.thinktoshare@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🖥️ GitHub: [github.com/tuhin3190]
+- 🖥️ GitHub: [github.com/tuhin3190](https://github.com/tuhin3190)
 
 ## 🛠️ Skills & Tools
 
