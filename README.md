@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tuhin Rana Mondal
 
-![GitHub Profile](https://github.com/tuhin3190)
+![GitHub Profile](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 
 ## 💬 About Me
