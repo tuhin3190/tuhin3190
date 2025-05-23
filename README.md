@@ -1,27 +1,28 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Tuhin Rana Mondal
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
+![GitHub Profile](https://github.com/tuhin3190)
+
 
 ## 💬 About Me
 
-- 🌱 Currently learning **Web Development / Python / Data Science**
-- 💼 Seeking opportunities in **software development** and **open-source**
+- 🌱 Currently learning **Web Development / Laravel / NodeJs**
+- 💼 Working as Laravel Developer
 - ⚡ Fun fact: I enjoy coffee-fueled coding sessions and building cool things
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: tuhin.thinktoshare@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🖥️ GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🖥️ GitHub: [github.com/yourusername](https://github.com/tuhin3190)
 
 ## 🛠️ Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Tuhin Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
