@@ -5,7 +5,6 @@
 
 - 🌱 Currently learning **Web Development / Laravel / NodeJs**
 - 💼 Working as Junior Laravel Developer
-- ⚡ Fun fact: I enjoy coffee-fueled coding sessions and building cool things
 
 ## 📫 Contact Me
 
