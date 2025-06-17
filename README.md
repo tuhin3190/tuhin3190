@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Tuhin Rana Mondal
 
 
-## 💬 About Me
-
-- 🌱 Currently learning **Web Development / Laravel / NodeJs**
-- 💼 Working as Junior Laravel Developer
-
 ## 📫 Contact Me
 
 - 📧 Email: aimlesstuhin@gmail.com
